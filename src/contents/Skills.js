@@ -28,7 +28,7 @@ class Skills extends Component {
 
       return (
          <div className="condiv skills">
-            <div className="subtopic">
+            <div className="skill">
                <h1>My Skills</h1>
                <ul>
                   {row}

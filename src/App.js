@@ -10,7 +10,7 @@ import Contact from './contents/Contact';
 import Projects from './contents/Projects';
 import PortfolioItem from './contents/PortfolioItem';
 
-function App() {
+const App = () => {
   return (
     <Router>
       <div className="App">
